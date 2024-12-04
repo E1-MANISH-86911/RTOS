@@ -1,0 +1,5 @@
+../Src/main.c:31:6:vMainAperiodicTaskFunction1	16	static
+../Src/main.c:42:7:vMainPeriodicTaskFunction2	24	static
+../Src/main.c:55:7:vMainAperiodicTaskFunction3	16	static
+../Src/main.c:65:7:vMainAperiodicTaskFunction4	16	static
+../Src/main.c:75:5:main	16	static

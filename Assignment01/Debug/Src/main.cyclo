@@ -1,0 +1,5 @@
+../Src/main.c:31:6:vMainAperiodicTaskFunction1	1
+../Src/main.c:42:7:vMainPeriodicTaskFunction2	1
+../Src/main.c:55:7:vMainAperiodicTaskFunction3	1
+../Src/main.c:65:7:vMainAperiodicTaskFunction4	1
+../Src/main.c:75:5:main	1
